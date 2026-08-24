@@ -26,6 +26,7 @@ My Data Structures and Algorithms practice in Java
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -42,6 +43,7 @@ My Data Structures and Algorithms practice in Java
 | [0125-valid-palindrome](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
