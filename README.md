@@ -63,6 +63,7 @@ My Data Structures and Algorithms practice in Java
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0066-plus-one) |
 ## Greedy
 |  |
