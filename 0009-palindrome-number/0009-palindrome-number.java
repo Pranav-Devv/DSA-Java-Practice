@@ -18,3 +18,4 @@ class Solution {
         return original == rev;
     }
 }
+//o(n)
