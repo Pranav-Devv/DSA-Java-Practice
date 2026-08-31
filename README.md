@@ -14,6 +14,7 @@ My Data Structures and Algorithms practice in Java
 | [0075-sort-colors](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0860-lemonade-change) |
@@ -39,6 +40,7 @@ My Data Structures and Algorithms practice in Java
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -91,5 +94,6 @@ My Data Structures and Algorithms practice in Java
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
