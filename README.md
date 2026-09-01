@@ -19,6 +19,7 @@ My Data Structures and Algorithms practice in Java
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -26,6 +27,7 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -96,4 +98,5 @@ My Data Structures and Algorithms practice in Java
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
