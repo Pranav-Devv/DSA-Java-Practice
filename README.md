@@ -29,6 +29,7 @@ My Data Structures and Algorithms practice in Java
 | ------- |
 | [0001-two-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -57,6 +58,7 @@ My Data Structures and Algorithms practice in Java
 | [0027-remove-element](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -109,4 +111,12 @@ My Data Structures and Algorithms practice in Java
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
