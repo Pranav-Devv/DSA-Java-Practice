@@ -62,6 +62,7 @@ My Data Structures and Algorithms practice in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
@@ -115,6 +116,7 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
