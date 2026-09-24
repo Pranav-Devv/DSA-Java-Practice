@@ -31,6 +31,7 @@ My Data Structures and Algorithms practice in Java
 | [0076-minimum-window-substring](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -62,6 +63,7 @@ My Data Structures and Algorithms practice in Java
 | [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -88,6 +90,7 @@ My Data Structures and Algorithms practice in Java
 | ------- |
 | [0009-palindrome-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -125,4 +128,5 @@ My Data Structures and Algorithms practice in Java
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
