@@ -17,6 +17,7 @@ My Data Structures and Algorithms practice in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0881-boats-to-save-people) |
@@ -65,6 +66,7 @@ My Data Structures and Algorithms practice in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0881-boats-to-save-people) |
@@ -73,12 +75,14 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -129,4 +133,9 @@ My Data Structures and Algorithms practice in Java
 | [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
