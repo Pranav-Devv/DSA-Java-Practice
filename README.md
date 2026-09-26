@@ -11,6 +11,7 @@ My Data Structures and Algorithms practice in Java
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0136-single-number) |
@@ -138,4 +139,12 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
