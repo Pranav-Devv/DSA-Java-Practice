@@ -15,6 +15,7 @@ My Data Structures and Algorithms practice in Java
 | [0066-plus-one](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0283-move-zeroes) |
@@ -147,4 +148,5 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
