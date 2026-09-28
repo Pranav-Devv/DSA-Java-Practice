@@ -25,6 +25,7 @@ My Data Structures and Algorithms practice in Java
 | [0881-boats-to-save-people](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1470-shuffle-the-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -149,4 +150,5 @@ My Data Structures and Algorithms practice in Java
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
