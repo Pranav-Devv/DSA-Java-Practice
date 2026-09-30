@@ -20,6 +20,7 @@ My Data Structures and Algorithms practice in Java
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0881-boats-to-save-people) |
@@ -38,6 +39,7 @@ My Data Structures and Algorithms practice in Java
 | [0142-linked-list-cycle-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -57,6 +59,7 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
