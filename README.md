@@ -112,6 +112,7 @@ My Data Structures and Algorithms practice in Java
 | [0009-palindrome-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
+| [2235-add-two-integers](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/2235-add-two-integers) |
 ## Greedy
 |  |
 | ------- |
