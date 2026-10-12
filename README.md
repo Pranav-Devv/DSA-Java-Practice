@@ -12,6 +12,7 @@ My Data Structures and Algorithms practice in Java
 | [0027-remove-element](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0136-single-number) |
@@ -103,6 +104,7 @@ My Data Structures and Algorithms practice in Java
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,6 +127,7 @@ My Data Structures and Algorithms practice in Java
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
