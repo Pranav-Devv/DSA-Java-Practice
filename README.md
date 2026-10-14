@@ -33,6 +33,7 @@ My Data Structures and Algorithms practice in Java
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1470-shuffle-the-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -90,6 +91,7 @@ My Data Structures and Algorithms practice in Java
 | [0876-middle-of-the-linked-list](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0986-interval-list-intersections) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,4 +186,8 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0303-range-sum-query-immutable) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
