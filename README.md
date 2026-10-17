@@ -59,6 +59,7 @@ My Data Structures and Algorithms practice in Java
 | [0125-valid-palindrome](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Trie
 |  |
@@ -190,4 +191,8 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
