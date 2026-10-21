@@ -28,6 +28,7 @@ My Data Structures and Algorithms practice in Java
 | [0560-subarray-sum-equals-k](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0904-fruit-into-baskets) |
@@ -198,6 +199,7 @@ My Data Structures and Algorithms practice in Java
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -207,4 +209,5 @@ My Data Structures and Algorithms practice in Java
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
