@@ -3,27 +3,38 @@ import java.util.*;
 class Solution {
     public String removeDuplicates(String s, int k) {
         Stack<int[]> st = new Stack<>();
+        int n = s.length();
 
-        for (char ch : s.toCharArray()) {
-            if (!st.isEmpty() && st.peek()[0] == ch) {
-                st.peek()[1]++;
-            } else {
-                st.push(new int[]{ch, 1});
+        for (int i = 0; i < n; i++) {
+            char c = s.charAt(i);
+
+            if (st.isEmpty()) {
+                st.push(new int[]{c, 1});
+                continue;
             }
+
+            if (st.peek()[0] != c) {
+                st.push(new int[]{c, 1});
+                continue;
+            }
+
+            st.peek()[1]++;
 
             if (st.peek()[1] == k) {
                 st.pop();
             }
         }
 
-        StringBuilder ans = new StringBuilder();
+        StringBuilder res = new StringBuilder();
 
-        for (int[] pair : st) {
-            for (int i = 0; i < pair[1]; i++) {
-                ans.append((char) pair[0]);
+        while (!st.isEmpty()) {
+            int[] p = st.pop();
+
+            while (p[1]-- > 0) {
+                res.append((char) p[0]);
             }
         }
 
-        return ans.toString();
+        return res.reverse().toString();
     }
 }
