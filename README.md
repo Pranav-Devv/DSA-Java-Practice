@@ -47,6 +47,7 @@ My Data Structures and Algorithms practice in Java
 | [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ My Data Structures and Algorithms practice in Java
 | [0076-minimum-window-substring](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -182,6 +184,7 @@ My Data Structures and Algorithms practice in Java
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -212,4 +215,8 @@ My Data Structures and Algorithms practice in Java
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0739-daily-temperatures) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
