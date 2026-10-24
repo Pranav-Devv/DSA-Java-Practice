@@ -47,6 +47,7 @@ My Data Structures and Algorithms practice in Java
 | [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0525-contiguous-array) |
@@ -62,6 +63,7 @@ My Data Structures and Algorithms practice in Java
 | [0076-minimum-window-substring](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -218,5 +220,6 @@ My Data Structures and Algorithms practice in Java
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
