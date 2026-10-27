@@ -164,6 +164,7 @@ My Data Structures and Algorithms practice in Java
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -228,4 +229,8 @@ My Data Structures and Algorithms practice in Java
 | [0383-ransom-note](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/1189-maximum-number-of-balloons) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pranav-Devv/DSA-Java-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
